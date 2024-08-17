@@ -1,0 +1,26 @@
+
+form{
+    background-color: rgb(196, 194, 194);
+    font-weight: 400;
+    width: auto;
+}
+
+form label{
+    margin-left: 10px;
+    font-size: x-large;
+}
+
+form input{
+    height: 23px;
+    vertical-align: middle;
+    width: 250px;
+}
+
+button{
+    border: 0;
+    height: 20px;
+    width: 80px;
+    font-weight: 700;
+    background-color: rgb(160, 158, 158);
+    vertical-align: middle;
+}
